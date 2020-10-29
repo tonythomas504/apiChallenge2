@@ -1,0 +1,11 @@
+.form{
+    display: inline-block;
+    position: absolute;
+    margin-top: 100px;
+
+}
+
+.search-btn{
+ background-color: salmon;
+ color: white;
+}
